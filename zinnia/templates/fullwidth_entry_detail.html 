@@ -1,0 +1,7 @@
+{% load static %}
+
+{% extends "zinnia/entry_detail.html" %}
+
+{% block zinnia-sidebar %}no-sidebar{% endblock %}
+
+{% block sidebar %}{% endblock %}
